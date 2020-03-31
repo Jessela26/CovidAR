@@ -125,8 +125,7 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: v0.24.0.1
-  preloadedAssets:
-  - {fileID: -6602195166426926598, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -706,7 +705,7 @@ PlayerSettings:
     m_ModelFolderPath: 
     m_PortalFolderPath: 
   luminCert:
-    m_CertPath: C:/Users/jelba/Documents/Github Projects/CovidAR/covidar.cert
+    m_CertPath: C:/Users/jelba/Documents/Github Projects/CovidAR/privatekey/covidar.cert
     m_SignPackage: 1
   luminIsChannelApp: 0
   luminVersion:
