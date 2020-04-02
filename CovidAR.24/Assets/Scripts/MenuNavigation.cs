@@ -8,7 +8,7 @@ public class MenuNavigation : MonoBehaviour
     public void StartGame()
     {
         Debug.Log("Game Started!");
-        SceneManager.LoadScene("MainInterface");
+        SceneManager.LoadScene("Transition");
     }
 
     public void ExitGame()
