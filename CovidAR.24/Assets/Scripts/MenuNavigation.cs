@@ -10,7 +10,11 @@ public class MenuNavigation : MonoBehaviour
         Debug.Log("Game Started!");
         SceneManager.LoadScene("Transition");
     }
-
+    public void Menu()
+    {
+        Debug.Log("Menu");
+        SceneManager.LoadScene("SceneMenu");
+    }
     public void ExitGame()
     {
         Debug.Log("QUIT!");

@@ -12,7 +12,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Transition.unity
     guid: 068782cd605452b458ab16922d8a40cf
   - enabled: 1
-    path: Assets/Scenes/MainInterface.unity
+    path: Assets/Scenes/MainInterface1.0.unity
     guid: 524f48a54370b974ab5156fd25de96e5
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 2ba4dbd235ed941bb8fdb5a40ab00f22,
